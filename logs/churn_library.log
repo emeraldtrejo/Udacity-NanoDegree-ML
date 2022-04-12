@@ -1,0 +1,7 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - File churn.png was found
+root - INFO - File customer_age.png was found
+root - INFO - File marital_status.png was found
+root - INFO - File total_transaction.png was found
+root - INFO - File heatmap.png was found
